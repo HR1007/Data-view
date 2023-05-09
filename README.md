@@ -1,6 +1,6 @@
 # Data-view
 #### Tableau 個案分析實作成果
-![tableau](tableau.png "tableau")
+![TABLEAU](TABLEAU.png "tableau")
 
 #### Splunk 個案分析實作成果
 ![1](1.png "1")
